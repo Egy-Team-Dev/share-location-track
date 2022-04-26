@@ -55,7 +55,7 @@ const Track = () => {
         } else {
           null;
         }
-      }, 10);
+      }, 30000);
     } else {
       null;
     }
